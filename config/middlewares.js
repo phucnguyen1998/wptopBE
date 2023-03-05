@@ -7,7 +7,7 @@ module.exports = [
     config: {
       enabled: false,
       headers: "*",
-      origin: ["*"]
+      origin: ["https://wptopworld.com/", "wptopworld.com", "www.wptopworld.com"]
     }
   },
   'strapi::logger',
